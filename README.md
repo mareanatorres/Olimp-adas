@@ -1,6 +1,4 @@
-## **README.md**
-
-### **Busca Rápida de Atletas: Seu Portal para o Esporte!** 
+### **Desvendando Atletas - Imersão Dev Alura com Google Gemini** 
 
 **O que faz essa aplicação?**
 
